@@ -1,14 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on
-  School projects
+- 🔭 I’m currently searching for a job
 - 🌱 I’m currently learning
-  Professional codig
+  Professional coding
 - 👯 I’m looking to collaborate on
   simple projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: i think therefore i am
--->
+- 🤔 I’m looking for help with any job
